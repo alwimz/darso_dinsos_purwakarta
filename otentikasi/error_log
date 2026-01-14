@@ -1,0 +1,25 @@
+[25-Dec-2025 12:02:02 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/darn5374/public_html/config.php on line 9
+[25-Dec-2025 12:04:17 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rehsos'@'localhost' (using password: YES) in /home/darn5374/public_html/config.php on line 9
+[25-Dec-2025 12:04:53 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rehsos'@'localhost' (using password: YES) in /home/darn5374/public_html/config.php on line 9
+[25-Dec-2025 12:06:22 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+darn5374_rehsos'@'localhost' (using password: YES) in /home/darn5374/public_html/config.php on line 10
+[25-Dec-2025 12:08:16 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'darn5374_rehsos'@'localhost' to database 'db_darso' in /home/darn5374/public_html/config.php on line 9
+[25-Dec-2025 12:09:47 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'darn5374_rehsos'@'localhost' to database 'db_darso' in /home/darn5374/public_html/config.php on line 9
+[25-Dec-2025 12:13:06 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/darn5374/public_html/config.php on line 9
+[25-Dec-2025 12:14:11 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/darn5374/public_html/config.php on line 9
+[25-Dec-2025 12:15:11 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rehsos'@'localhost' (using password: YES) in /home/darn5374/public_html/config.php on line 9
+[25-Dec-2025 12:17:30 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rehsos'@'localhost' (using password: YES) in /home/darn5374/public_html/config.php on line 9
+[25-Dec-2025 12:18:04 Asia/Jakarta] PHP Notice:  Undefined index: gambar in /home/darn5374/public_html/otentikasi/proses-login.php on line 43
+[25-Dec-2025 12:18:04 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/darn5374/public_html/otentikasi/proses-login.php:43) in /home/darn5374/public_html/otentikasi/proses-login.php on line 46
+[25-Dec-2025 12:18:58 Asia/Jakarta] PHP Notice:  Undefined index: gambar in /home/darn5374/public_html/otentikasi/proses-login.php on line 43
+[25-Dec-2025 12:18:58 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/darn5374/public_html/otentikasi/proses-login.php:43) in /home/darn5374/public_html/otentikasi/proses-login.php on line 46
+[25-Dec-2025 12:21:02 Asia/Jakarta] PHP Notice:  Undefined index: gambar in /home/darn5374/public_html/otentikasi/proses-login.php on line 43
+[25-Dec-2025 12:21:02 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/darn5374/public_html/otentikasi/proses-login.php:43) in /home/darn5374/public_html/otentikasi/proses-login.php on line 46
+[25-Dec-2025 12:21:52 Asia/Jakarta] PHP Notice:  Undefined index: gambar in /home/darn5374/public_html/otentikasi/proses-login.php on line 43
+[25-Dec-2025 12:21:52 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/darn5374/public_html/otentikasi/proses-login.php:43) in /home/darn5374/public_html/otentikasi/proses-login.php on line 46
+[25-Dec-2025 12:28:23 Asia/Jakarta] PHP Notice:  Undefined index: gambar in /home/darn5374/public_html/otentikasi/proses-login.php on line 43
+[25-Dec-2025 12:28:23 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/darn5374/public_html/otentikasi/proses-login.php:43) in /home/darn5374/public_html/otentikasi/proses-login.php on line 46
+[25-Dec-2025 12:28:41 Asia/Jakarta] PHP Notice:  Undefined index: gambar in /home/darn5374/public_html/otentikasi/proses-login.php on line 43
+[25-Dec-2025 12:28:41 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/darn5374/public_html/otentikasi/proses-login.php:43) in /home/darn5374/public_html/otentikasi/proses-login.php on line 46
+[25-Dec-2025 12:29:08 Asia/Jakarta] PHP Notice:  Undefined index: gambar in /home/darn5374/public_html/otentikasi/proses-login.php on line 43
+[25-Dec-2025 12:29:08 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/darn5374/public_html/otentikasi/proses-login.php:43) in /home/darn5374/public_html/otentikasi/proses-login.php on line 46
